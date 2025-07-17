@@ -25,6 +25,13 @@
       "postId": 1
     }
   ],
+  "users": [
+    {
+     "name": "Viktoria",
+     "username": "viktoria32",
+     "email": "viktoria@example.com"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
